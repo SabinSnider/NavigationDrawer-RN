@@ -1,4 +1,4 @@
-{
+ {
   "expo": {
     "name": "customDrawer",
     "slug": "customDrawer",
@@ -14,7 +14,7 @@
       "fallbackToCacheTimeout": 0
     },
     "assetBundlePatterns": [
-      "**/*"
+      "**/*" 
     ],
     "ios": {
       "supportsTablet": true
